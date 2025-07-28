@@ -42,10 +42,10 @@
   {
     "name": "Tachiyomi: NovelFire",
     "pkg": "eu.kanade.tachiyomi.extension.en.novelfire",
-    "apk": "tachiyomi-en.novelfire-v1.4.1.apk",
+    "apk": "tachiyomi-en.novelfire-v1.4.11.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 11,
+    "version": "1.4.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
