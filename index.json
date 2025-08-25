@@ -7,15 +7,12 @@
     "code": 10,
     "version": "1.4.10",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "FreeWebNovel",
         "lang": "en",
         "id": "10002",
-        "baseUrl": "https://freewebnovel.com",
-        "versionId": 1
+        "baseUrl": "https://freewebnovel.com"
       }
     ]
   },
@@ -27,15 +24,12 @@
     "code": 1,
     "version": "1.4.1",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "NovelBin",
         "lang": "en",
         "id": "10001",
-        "baseUrl": "https://novelbin.com",
-        "versionId": 1
+        "baseUrl": "https://novelbin.com"
       }
     ]
   },
@@ -47,15 +41,12 @@
     "code": 11,
     "version": "1.4.11",
     "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
     "sources": [
       {
         "name": "NovelFire",
         "lang": "en",
         "id": "10003",
-        "baseUrl": "https://novelfire.net",
-        "versionId": 1
+        "baseUrl": "https://novelfire.net"
       }
     ]
   }
