@@ -12,7 +12,8 @@
         "name": "FreeWebNovel",
         "lang": "en",
         "id": "3970612267773145070",
-        "baseUrl": "https://freewebnovel.com"
+        "baseUrl": "https://freewebnovel.com",
+        "versionId": 1
       }
     ]
   },
@@ -29,7 +30,8 @@
         "name": "NovelBin",
         "lang": "en",
         "id": "1876355330276701201",
-        "baseUrl": "https://novelbin.com"
+        "baseUrl": "https://novelbin.com",
+        "versionId": 1
       }
     ]
   },
@@ -46,7 +48,8 @@
         "name": "NovelFire",
         "lang": "en",
         "id": "7165539527173321330",
-        "baseUrl": "https://novelfire.net"
+        "baseUrl": "https://novelfire.net",
+        "versionId": 1
       }
     ]
   }
