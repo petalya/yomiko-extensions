@@ -2,6 +2,24 @@
   {
     "name": "Tachiyomi: FreeWebNovel",
     "pkg": "eu.kanade.tachiyomi.extension.en.freewebnovel",
+    "apk": "tachiyomi-en.freewebnovel-v1.4.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "FreeWebNovel",
+        "lang": "en",
+        "id": "10002",
+        "baseUrl": "https://freewebnovel.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: FreeWebNovel",
+    "pkg": "eu.kanade.tachiyomi.extension.en.freewebnovel",
     "apk": "tachiyomi-en.freewebnovel-v1.4.10.apk",
     "lang": "en",
     "code": 10,
@@ -11,7 +29,7 @@
       {
         "name": "FreeWebNovel",
         "lang": "en",
-        "id": "3970612267773145070",
+        "id": "10002",
         "baseUrl": "https://freewebnovel.com",
         "versionId": 1
       }
@@ -20,10 +38,10 @@
   {
     "name": "Tachiyomi: NovelBin",
     "pkg": "eu.kanade.tachiyomi.extension.en.novelbin",
-    "apk": "tachiyomi-en.novelbin-v1.4.1.apk",
+    "apk": "tachiyomi-en.novelbin-v1.4.2.apk",
     "lang": "en",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
