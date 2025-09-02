@@ -52,5 +52,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: NOVA",
+    "pkg": "eu.kanade.tachiyomi.extension.es.nova",
+    "apk": "tachiyomi-es.nova-v1.4.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NOVA",
+        "lang": "es",
+        "id": "1545598457548439744",
+        "baseUrl": "https://novelasligeras.net",
+        "versionId": 1
+      }
+    ]
   }
 ]
